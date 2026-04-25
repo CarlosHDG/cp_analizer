@@ -6,7 +6,13 @@ CP Analizer es una herramienta de análisis de capacidad de proceso creada para 
 
 Su objetivo es ofrecer una alternativa sencilla a funciones de software estadístico como Minitab la cual si simplifica el proceso pero aún requiere un trabajo manual y se complica cuando en la industria muchas veces se tienen producciones masivas de distintos lotes y se deben realizar estos analisis de capacidad de proceso de manera mas rápida.
 
-La aplicacion personal que le dí fue crear un backend para automatizar el proceso completo de Analisis de capacidad.
+### Ejemplo de resultados visuales
+
+| Antes (Manual) | Después (Análisis Automático) |
+| :--- | :--- |
+| ![Antes](images/Antes.png) | ![Grafica1](images/despues_1.png) <br> ![Grafica2](images/despues_2.png) |
+
+La aplicacion personal que le dí fue crear un backend para automatizar el proceso completo de Analis de capacidad, donde use cp_analizer para procesar los datos y posteriormente generar los PDFs automaticamente.
 
 ## Qué hace
 
